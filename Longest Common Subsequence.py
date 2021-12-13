@@ -14,6 +14,7 @@ s2 = str(input("Enter second word: "))
 
 rows = len(s2) + 1
 cols = len(s1) + 1
+
 mat = []
 temp = []
 
